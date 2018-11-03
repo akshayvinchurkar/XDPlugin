@@ -10,7 +10,7 @@
         {
             "type": "menu",
             "label": "Akshay Do some fun",
-            "commandId": "createRectangle"
+            "commandId": "createStyledTextCommand"
         }
     ]
 }
