@@ -1,0 +1,16 @@
+{
+    "id": "QUICK_START",
+    "name": "Fun Stack",
+    "host": {
+        "app": "XD",
+        "minVersion": "13.0.0"
+    },
+    "version": "0.0.1",
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Akshay Do some fun",
+            "commandId": "createRectangle"
+        }
+    ]
+}
